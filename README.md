@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d7b01f38-92df-427b-ba3b-a526a5e5bedd" /># SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+
 
 **AIM:**
 
@@ -54,3 +54,4 @@ Developed by:Rajalakshmi V  RegisterNumber:25016476
 <img width="1917" height="1198" alt="Screenshot 2025-12-11 141250" src="https://github.com/user-attachments/assets/5467e0ea-f25e-458f-b591-27d7a99814cc" />
 
 **RESULTS**
+Thus the Serial-In Serial-Out shift register is implemented and verified.
